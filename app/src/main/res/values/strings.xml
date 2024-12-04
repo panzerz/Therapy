@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Therapy</string>
+    <string name="consult_only_with_a_ndoctor_you_trust">
+Consult only with a
+<font color="#1FC29D">\nDoctor you trust</font>
+</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
